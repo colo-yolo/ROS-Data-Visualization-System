@@ -1,0 +1,2 @@
+perception
+-DCATKIN_DEVEL_PREFIX=/home/wang/Desktop/ros_workspace/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/wang/Desktop/ros_workspace/ros_workspace/install -G Unix Makefiles
